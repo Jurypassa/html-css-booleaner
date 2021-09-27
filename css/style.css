@@ -1,7 +1,6 @@
-.container-header{
-    
+.container{
+    width: 60%;
 }
-
 .sfondo-header{
     height: 100px;
     background-image: url("../img/pattern.png");
@@ -20,4 +19,20 @@
 
 #ciano{
     color:lightskyblue;
+}
+
+.foto{
+    font-size: 12px;
+}
+
+.evidenziato{
+    background-color: yellow    ;
+}
+
+.colore-intestazione{
+    background-color:dodgerblue;
+    color: white;
+}
+.colore-riga{
+    background-color: skyblue;
 }
