@@ -1,6 +1,3 @@
-.container{
-    width: 60%;
-}
 .sfondo-header{
     height: 100px;
     background-image: url("../img/pattern.png");
@@ -12,6 +9,9 @@
     width: 10%;
     margin-top: 50px;
 }
+h1{
+    font-size: 70px;
+}
 
 .riferimenti{
     color: grey
@@ -22,6 +22,11 @@
 }
 
 .foto{
+    width: 800px;
+    height: 500px;
+}
+
+.fonti{
     font-size: 12px;
 }
 
